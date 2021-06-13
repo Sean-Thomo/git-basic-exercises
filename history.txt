@@ -1,0 +1,170 @@
+    1  sudo apt-get update
+    2  apt-get update
+    3  sudo apt-get update
+    4  sudo apt-get install vscode
+    5  clear
+    6  ls
+    7  sudo apt install ./code_1.55.0-1617120720_amd64.deb.deb
+    8  sudo apt install ./code_1.55.0-1617120720_amd64.deb
+    9  apt-get install git
+   10  sudo apt-get install git
+   11  git --version
+   12  sudo apt-get install git-hub
+   13  sudo apt-get install github
+   14  sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.1.0-linux1/GitHubDesktop-linux-2.1.0-linux1.deb
+   15  sudo apt-get upgrade
+   16  sudo apt-get install python3
+   17  sudo apt-get install python
+   18  sudo apt install python3
+   19  sudo apt install python3-pip
+   20  sudo apt install python3-django
+   21  python3-django --version
+   22  python3 --verion
+   23  python3 --version
+   24  /usr/bin/python3 /home/siphesihle-thomo/.vscode/extensions/ms-python.python-2021.3.680753044/pythonFiles/pyvsc-run-isolated.py pip install -U pylint --user
+   25  clear
+   26  django-admin startproject helloworld_project .
+   27  ls
+   28  cd helloworld
+   29  ls
+   30  install tree
+   31  tree
+   32  cd ..
+   33  tree
+   34  exit
+   35  cd ~/Desktop/django/helloworld/helloworld
+   36  cd ..
+   37  tree
+   38  django-admin startproject helloworld_project .
+   39  tree
+   40  python3 manage.py runserver
+   41  python3 manage.py startapp pages
+   42  tree
+   43  clear
+   44  tree
+   45  ls
+   46  cd pages
+   47  ls
+   48  cd ..
+   49  touch pages/urls.py
+   50  python3 manage.py runserver
+   51  django-admin startproject config .
+   52  python3 manage.py runserver
+   53  exit
+   54  ls
+   55  cd Desktop/django
+   56  ls
+   57  cd config
+   58  tree
+   59  clear
+   60  cd ..
+   61  clear
+   62  tree
+   63  python3 manage.py runserver
+   64  clear
+   65  python3 manage.py startapp pages
+   66  cd pages
+   67  ls
+   68  clear
+   69  tree
+   70  pipenv shell
+   71  python3 manage.py startapp pages
+   72  cd ..
+   73  cd django/pages
+   74  python3 manage.py startapp pages
+   75  cd ..
+   76  python3 manage.py startapp pages
+   77  clear
+   78  cd Desktop/django
+   79  pipenv shell
+   80  git status
+   81  git init
+   82  git status
+   83  git add -A
+   84  git commit -m "initial commit"
+   85  git remote add origin https://github.com/Sean-Thomo/hello-world.git
+   86  git push -u origin main
+   87  git branch -M main
+   88  git push -u origin main
+   89  git config
+   90  git config --global user.name "Sean-Thomo"
+   91  git config --global user.email "seansthomo@gmail.com"
+   92  git remote add origin https://github.com/Sean-Thomo/hello-world.git\ngit branch -M main\ngit push -u origin main
+   93  git status
+   94  git init
+   95  git status
+   96  exit
+   97  cd Desktop/django
+   98  clear
+   99  ls
+  100  tree
+  101  touch pages/urls.py
+  102  cd pages
+  103  ls
+  104  ./urls.py
+  105  code .
+  106  cd ..
+  107  code .
+  108  pipenv shell
+  109  python3 manage.py runserver
+  110  clear
+  111  django-admin startproject config .
+  112  python3 manage.py startapp pages
+  113  code .
+  114  python3 manage.py runserver
+  115  mkdir templates && touch templates/home.html
+  116  python3 manage.py runserver
+  117  apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6
+  118  sudo apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6
+  119  sha256sum /path/Anaconda3-2020.11-Linux-x86_64.sh
+  120  bash /Anaconda3-2020.11-Linux-x86_64.sh
+  121  ls
+  122  bash Anaconda3-2020.11-Linux-x86_64.sh
+  123  exit
+  124  python3 
+  125  clear
+  126  exit
+  127  mkdir git-basic-exercises\n
+  128  cd git-basic-exercises
+  129  ls
+  130  ls -a
+  131  git init
+  132  ls -a
+  133  git status
+  134  touch README.md
+  135  ls -a
+  136  git status
+  137  git log
+  138  git add README.md
+  139  git status
+  140  git commit -m "initial commit"
+  141  git log
+  142  nano README.md
+  143  cat README.md
+  144  git status
+  145  git add README.md
+  146  git commit -m "second commit"
+  147  nano README.md
+  148  git add README.md
+  149  git commit -m "third commit"
+  150  git log
+  151  git checkout 0448451d4d8885a1c2562c2dc6505b8858913d13
+  152  cat README.md
+  153  git checkout master
+  154  cat README.md
+  155  git branch 
+  156  git checkout -b milkshake-flavours
+  157  git branch 
+  158  nano milkshakes.md
+  159  git status
+  160  git add milkshakes.md
+  161  git commit -m "added initial flavours"
+  162  git log
+  163  git checkout master
+  164  git log
+  165  git branch history
+  166  git branch 
+  167  git checkout branch
+  168  git checkout history
+  169  git log
+  170  git branch 
